@@ -1,0 +1,16 @@
+ul {
+    padding: 20px;
+    border-radius: 10px;
+    background: rgb(5, 50, 148);
+}
+
+li {
+    color: black;
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+}
+
+h2 {
+    color: red;
+}
